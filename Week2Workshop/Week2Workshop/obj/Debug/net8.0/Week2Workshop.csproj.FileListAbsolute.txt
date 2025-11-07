@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\bin\Debug\net8.0\Week2Workshop.exe
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\bin\Debug\net8.0\Week2Workshop.deps.json
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\bin\Debug\net8.0\Week2Workshop.runtimeconfig.json
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\bin\Debug\net8.0\Week2Workshop.dll
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\bin\Debug\net8.0\Week2Workshop.pdb
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\obj\Debug\net8.0\Week2Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\obj\Debug\net8.0\Week2Workshop.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\obj\Debug\net8.0\Week2Workshop.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\obj\Debug\net8.0\Week2Workshop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\obj\Debug\net8.0\Week2Workshop.dll
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\obj\Debug\net8.0\refint\Week2Workshop.dll
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\obj\Debug\net8.0\Week2Workshop.pdb
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\obj\Debug\net8.0\Week2Workshop.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Week2Workshop\Week2Workshop\obj\Debug\net8.0\ref\Week2Workshop.dll
